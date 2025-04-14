@@ -20,9 +20,13 @@ retail-sales-dashboard/
 │
 ├── dashboard/
 │   └── app.py  # Streamlit app
+
 │
 ├── reports/
 │   └── executive_summary.pdf
 │
 ├── README.md
 └── requirements.txt
+
+Data Set : https://github.com/Harsh1218/retail-sales-dashboard/blob/main/Sample%20-%20Superstore.csv
+
